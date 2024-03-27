@@ -1,0 +1,10 @@
+body {
+	#registration-form {
+		display: none;
+	}
+	main{
+		.active {
+			display: flex!important;
+		}
+	}
+}
